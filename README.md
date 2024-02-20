@@ -3,7 +3,7 @@
 [![](https://github.com/kintone/js-sdk/workflows/test/badge.svg)](https://github.com/kintone/js-sdk/actions?workflow=test)
 [![](https://github.com/kintone/js-sdk/workflows/lint/badge.svg)](https://github.com/kintone/js-sdk/actions?workflow=lint)
 
-This repository is a monorepo for Kintone development tools!
+This repository is a monorepo for Kintone Development Tools!
 
 ## packages
 
